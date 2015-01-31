@@ -1,5 +1,6 @@
+BeautifulSoup==3.2.1
 datetime-truncate==1.0.1
+lxml==3.4.1
 numpy==1.9.1
 python-dateutil==2.3
 six==1.8.0
-wsgiref==0.1.2
